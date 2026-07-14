@@ -1,0 +1,8 @@
+[
+  {
+    "attempt": 1,
+    "email": "vufl79ftk52twzaw@arzastore.com",
+    "error": "Page.goto: net::ERR_CONNECTION_RESET at https://accounts.x.ai/sign-up\nCall log:\n  - navigating to \"https://accounts.x.ai/sign-up\", waiting until \"commit\"\n",
+    "at": "2026-07-14T00:29:54.582189Z"
+  }
+]

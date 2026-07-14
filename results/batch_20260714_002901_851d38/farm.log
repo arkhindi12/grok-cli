@@ -1,0 +1,17 @@
+
+===== FARM START 2026-07-14T00:29:01.678505+00:00 =====
+07:29:01  [STEP]  #1  vufl79ftk52twzaw@arzastore.com  START
+07:29:01  [STEP]  #1  vufl79ftk52twzaw@arzastore.com  BROWSER
+07:29:19  [1] Browser up: vufl79ftk52twzaw@arzastore.com proxy=direct id=-
+07:29:19  [STEP]  #1  vufl79ftk52twzaw@arzastore.com  SIGNUP
+07:29:37  [1] goto signup failed: Page.goto: net::ERR_CONNECTION_RESET at https://accounts.x.ai/sign-up
+Call log:
+  - navigating to "https://accounts.x.ai/sign-up", waiting until "domcontentloaded"
+
+07:29:54  [1] FAILED: Page.goto: net::ERR_CONNECTION_RESET at https://accounts.x.ai/sign-up
+Call log:
+  - navigating to "https://accounts.x.ai/sign-up", waiting until "commit"
+
+07:29:54  [FAIL]  #1  vufl79ftk52twzaw@arzastore.com  ERROR
+07:29:54  [STEP]  #2  fca58i7irh3i0w2h@arzastore.com  START
+07:29:54  [STEP]  #2  fca58i7irh3i0w2h@arzastore.com  BROWSER

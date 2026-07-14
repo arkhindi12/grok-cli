@@ -1,0 +1,21 @@
+
+===== FARM START 2026-07-14T00:30:52.584029+00:00 =====
+07:30:52  [STEP]  #1  o6ujgkti0me1gj8a@arzastore.com  START
+07:30:52  [STEP]  #1  o6ujgkti0me1gj8a@arzastore.com  BROWSER
+07:31:12  [1] Browser up: o6ujgkti0me1gj8a@arzastore.com proxy=direct id=-
+07:31:12  [STEP]  #1  o6ujgkti0me1gj8a@arzastore.com  SIGNUP
+07:31:18  [STEP]  #1  o6ujgkti0me1gj8a@arzastore.com  SIGNUP
+07:31:20  [1] Clicked: Sign up with email
+07:31:22  [STEP]  #1  o6ujgkti0me1gj8a@arzastore.com  EMAIL
+07:31:22  [STEP]  #1  o6ujgkti0me1gj8a@arzastore.com  SIGNUP
+07:31:24  [STEP]  #1  o6ujgkti0me1gj8a@arzastore.com  OTP
+07:31:24  [IMAP] Waiting for xAI OTP to o6ujgkti0me1gj8a@arzastore.com...
+07:31:25  [IMAP] Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+07:31:31  [IMAP] Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+07:31:36  [IMAP] Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+07:31:41  [IMAP] Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+07:31:46  [IMAP] Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+07:31:52  [IMAP] Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+07:31:57  [IMAP] Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+07:32:03  [IMAP] Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+07:32:06  [1] page keep-alive warn: Page.evaluate: Target page, context or browser has been closed

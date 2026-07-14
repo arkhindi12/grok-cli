@@ -1,0 +1,9 @@
+{
+  "batch_id": "20260714_002641_4a4618",
+  "started_at": "2026-07-14T00:26:41.906427Z",
+  "email_mode": "domain",
+  "email_domain": "arzastore.com",
+  "max_accounts": 5,
+  "concurrent": 1,
+  "email_local_len": 16
+}
